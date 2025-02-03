@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/vivekei51/dascracker/tree/master/0854-making-a-large-island) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vivekei51/dascracker/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/vivekei51/dascracker/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vivekei51/dascracker/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/vivekei51/dascracker/tree/master/3429-special-array-i) |
 ## Depth-First Search
 |  |
