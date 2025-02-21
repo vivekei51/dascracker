@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/vivekei51/dascracker/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vivekei51/dascracker/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/vivekei51/dascracker/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/vivekei51/dascracker/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vivekei51/dascracker/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/vivekei51/dascracker/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/vivekei51/dascracker/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vivekei51/dascracker/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vivekei51/dascracker/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/vivekei51/dascracker/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vivekei51/dascracker/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vivekei51/dascracker/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2434-design-a-number-container-system](https://github.com/vivekei51/dascracker/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -95,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vivekei51/dascracker/tree/master/2456-construct-smallest-number-from-di-string) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vivekei51/dascracker/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vivekei51/dascracker/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
