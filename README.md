@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vivekei51/dascracker/tree/master/0073-set-matrix-zeroes) |
 | [0854-making-a-large-island](https://github.com/vivekei51/dascracker/tree/master/0854-making-a-large-island) |
 | [1364-tuple-with-same-product](https://github.com/vivekei51/dascracker/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vivekei51/dascracker/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -34,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vivekei51/dascracker/tree/master/0073-set-matrix-zeroes) |
 | [0854-making-a-large-island](https://github.com/vivekei51/dascracker/tree/master/0854-making-a-large-island) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/vivekei51/dascracker/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vivekei51/dascracker/tree/master/0073-set-matrix-zeroes) |
 | [1364-tuple-with-same-product](https://github.com/vivekei51/dascracker/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vivekei51/dascracker/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vivekei51/dascracker/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
